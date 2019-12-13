@@ -1,6 +1,8 @@
-<p align="center"><img src="assets/icon.png" width=128 /></p>
+<p align="center"><img src="https://joiplay.github.io/assets/icon.png" width="96" /></p>
 
 JoiPlay is a game launcher for Android™. Most of Ren'Py, RPG Maker XP/VX/VX Ace/MV, TyranoBuilder and HTML based games can be played on JoiPlay without porting them.
+
+<p align="center"><img src="https://joiplay.github.io/assets/deviceart.png" width="360" /></p>
 
 Features
 
