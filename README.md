@@ -18,4 +18,4 @@ Estimated game compatibility is 50% for RPG Maker XP/VX/VX Ace games and 90% for
 
 Game developers can create preconfigured [RGA](https://github.com/joiplay/rga) files to make their games playable on JoiPlay. Also third party plugins are supported and a plugin template will be published on [joiplay/plugin](https://github.com/joiplay/plugin).
 
-JoiPlay uses Ren'Py and RPG Maker plugins based on [Ren'Py](https://github.com/renpy/renpy), [rapt](https://github.com/renpy/rapt), [MKXP](https://github.com/pulsejet/mkxp) and [android-mkxp](https://github.com/pulsejet/android-mkxp) projects.
+JoiPlay uses Ren'Py and RPG Maker plugins based on [Ren'Py](https://github.com/renpy/renpy), [rapt](https://github.com/renpy/rapt), [MKXP](https://github.com/pulsejet/mkxp) and [android-mkxp](https://github.com/pulsejet/android-mkxp) projects. Licenses for these projects and other libraries are listed [there](https://joiplay.github.io/License.md).
