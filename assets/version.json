@@ -1,0 +1,30 @@
+{
+  "0": {
+    "id": "com.joiplay.joiplay",
+    "name": "JoiPlay",
+    "vInt": "10128",
+    "vString": "1.01.28",
+    "url": "https://mega.nz/#!pgB1zI5Q!IAkd-BXlyHAmUUG9GqJMbK5Ox6-qGZydeNkJfTt39nY"
+  },
+  "1": {
+    "id": "com.joiplay.joiplay.renpy",
+    "name": "JoiPlay Ren'Py Plugin",
+    "vInt": "10016",
+    "vString": "1.00.16",
+    "url": "https://mega.nz/#!Y9wFXayT!rIWaPhyYazuedaoN-Ulx6u6af3DGNimjIXBtUftLr6M"
+  },
+  "2": {
+    "id": "com.joiplay.joiplay.rpgm",
+    "name": "JoiPlay RPG Maker Plugin",
+    "vInt": "10029",
+    "vString": "1.00.29",
+    "url": "https://mega.nz/#!AhojAazK!Bw_ZIFCmrrdY3T-y_i36idUM4P6XnTlDz9mwr7Xx_Kg"
+  },
+  "3": {
+    "id": "com.joiplay.joiplay.crosswalk",
+    "name": "JoiPlay Crosswalk Plugin",
+    "vInt": "10000",
+    "vString": "1.00.00",
+    "url": "https://joiplay.github.io"
+  }
+}
