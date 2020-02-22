@@ -2,29 +2,29 @@
   "0": {
     "id": "com.joiplay.joiplay",
     "name": "JoiPlay",
-    "vInt": "10128",
-    "vString": "1.01.28",
-    "url": "https://mega.nz/#!pgB1zI5Q!IAkd-BXlyHAmUUG9GqJMbK5Ox6-qGZydeNkJfTt39nY"
+    "vInt": "10140",
+    "vString": "1.01.40",
+    "url": "https://mega.nz/#!IpoRlDgR!YWhOCP26O68CufJ4374DconeqnNUvpJJaMtR0-ZGC6U"
   },
   "1": {
     "id": "com.joiplay.joiplay.renpy",
     "name": "JoiPlay Ren'Py Plugin",
-    "vInt": "10016",
-    "vString": "1.00.16",
-    "url": "https://mega.nz/#!Y9wFXayT!rIWaPhyYazuedaoN-Ulx6u6af3DGNimjIXBtUftLr6M"
+    "vInt": "10017",
+    "vString": "1.00.17",
+    "url": "https://mega.nz/#!8xpxyZJa!ySSYRN580LGNsWeVjpHHWFiTbtL6S5tRDIV7lv9ABrg"
   },
   "2": {
     "id": "com.joiplay.joiplay.rpgm",
     "name": "JoiPlay RPG Maker Plugin",
-    "vInt": "10029",
-    "vString": "1.00.29",
-    "url": "https://mega.nz/#!AhojAazK!Bw_ZIFCmrrdY3T-y_i36idUM4P6XnTlDz9mwr7Xx_Kg"
+    "vInt": "10053",
+    "vString": "1.00.53",
+    "url": "https://mega.nz/#!8lRnGIoB!cqK6yXNFmKFOpvWkK1lUILMkLNmrmKUBcRoiLnoT2TI"
   },
   "3": {
     "id": "com.joiplay.joiplay.crosswalk",
     "name": "JoiPlay Crosswalk Plugin",
-    "vInt": "10000",
-    "vString": "1.00.00",
-    "url": "https://joiplay.github.io"
+    "vInt": "10002",
+    "vString": "1.00.02",
+    "url": "https://mega.nz/#!Q85GlSTT!szTfw_2AqRK1MfiR-LBE4BdBEj1Jb-z9cLqWGRGIFeM"
   }
 }
