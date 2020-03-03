@@ -11,7 +11,7 @@ Features
     - Built-in cheat menu for RPG Maker MV games.
     - Preconfigured game archive support.
    
-JoiPlay and plugin downloads are hosted at **[Mega.nz](https://mega.nz/#F!dkgGFIgA!5gm4NhlzYIGgQcndNuAXnw)** and **[Apkpure](https://m.apkpure.com/developer?id=8814502)**.
+JoiPlay and plugin releases are posted on [Patreon](https://www.patreon.com/joiplay).
 
 
 Estimated game compatibility is 50% for RPG Maker XP/VX/VX Ace games and 90% for other game types. Game compatibility is affected by usage of native libraries, win32api and Node.js modules.
