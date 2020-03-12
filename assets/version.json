@@ -2,9 +2,9 @@
   "0": {
     "id": "com.joiplay.joiplay",
     "name": "JoiPlay",
-    "vInt": "10140",
-    "vString": "1.01.40",
-    "url": "https://mega.nz/#!IpoRlDgR!YWhOCP26O68CufJ4374DconeqnNUvpJJaMtR0-ZGC6U"
+    "vInt": "10149",
+    "vString": "1.01.49",
+    "url": "https://mega.nz/#!dhZQ2QJC!W4WzYc7YciAWNKt7-E5hj8oOc18LYI7RuilfukUnS-I"
   },
   "1": {
     "id": "com.joiplay.joiplay.renpy",
@@ -16,9 +16,9 @@
   "2": {
     "id": "com.joiplay.joiplay.rpgm",
     "name": "JoiPlay RPG Maker Plugin",
-    "vInt": "10053",
-    "vString": "1.00.53",
-    "url": "https://mega.nz/#!8lRnGIoB!cqK6yXNFmKFOpvWkK1lUILMkLNmrmKUBcRoiLnoT2TI"
+    "vInt": "10062",
+    "vString": "1.00.62",
+    "url": "https://mega.nz/#!UwAyyCha!svlRFAArOgBxK8r_727yd8OvjDJa0AKTwjW8xl9DGTE"
   },
   "3": {
     "id": "com.joiplay.joiplay.crosswalk",
