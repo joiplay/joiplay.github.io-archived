@@ -2,29 +2,37 @@
   "0": {
     "id": "com.joiplay.joiplay",
     "name": "JoiPlay",
+    "dec": "This is the main app and required for all game types.",
     "vInt": "10149",
     "vString": "1.01.49",
+    "size": "8.38MB",
     "url": "https://mega.nz/#!dhZQ2QJC!W4WzYc7YciAWNKt7-E5hj8oOc18LYI7RuilfukUnS-I"
   },
   "1": {
     "id": "com.joiplay.joiplay.renpy",
     "name": "JoiPlay Ren'Py Plugin",
+    "dec": "This plugin is required for Ren'Py games.",
     "vInt": "10017",
     "vString": "1.00.17",
+    "size": "22.50MB",
     "url": "https://mega.nz/#!8xpxyZJa!ySSYRN580LGNsWeVjpHHWFiTbtL6S5tRDIV7lv9ABrg"
   },
   "2": {
     "id": "com.joiplay.joiplay.rpgm",
     "name": "JoiPlay RPG Maker Plugin",
+    "dec": "This plugin is required for RPG Maker XP, VX and VX Ace games.",
     "vInt": "10062",
     "vString": "1.00.62",
+    "size": "29.18MB",
     "url": "https://mega.nz/#!UwAyyCha!svlRFAArOgBxK8r_727yd8OvjDJa0AKTwjW8xl9DGTE"
   },
   "3": {
     "id": "com.joiplay.joiplay.crosswalk",
     "name": "JoiPlay Crosswalk Plugin",
+    "dec": "This plugin doesn't add support for any game type but required to fix rendering issues on a few RPG Maker MV games.",
     "vInt": "10002",
     "vString": "1.00.02",
+    "size": "43.56MB",
     "url": "https://mega.nz/#!Q85GlSTT!szTfw_2AqRK1MfiR-LBE4BdBEj1Jb-z9cLqWGRGIFeM"
   }
 }

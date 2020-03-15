@@ -1,0 +1,61 @@
+.network-name {
+}
+
+.btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 .2rem rgba(72,158,194,.5);
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: transparent;
+  border-color: #489ec2;
+}
+
+.btn-default:focus, .btn-default:hover {
+  color: #000;
+  border: 1px solid #489ec2;
+  outline: none;
+  background-color: transparent;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 .2rem rgba(72,158,194,.5);
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 .2rem rgba(72,158,194,.5);
+}
+
+.btn-primary:hover {
+  color: #212529;
+  background-color: transparent;
+  border-color: #489ec2;
+}
+
+a {
+  transition: all .2s ease-in-out;
+  color: #489ec2;
+}
+
+.btn-primary {
+  color: #212529;
+  background-color: transparent;
+  border-color: #489ec2;
+}
+
+.btn-default {
+  color: #489ec2;
+  border: 1px solid #489ec2;
+  background-color: transparent;
+}
+
+a:hover {
+  color: #489ec2;
+  text-decoration: underline;
+}
+
+a:focus, a:hover {
+  text-decoration: none;
+  color: #489ec2;
+}
+
