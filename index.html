@@ -80,9 +80,12 @@
                                 <div class="card-body">
                                     <p class="card-text">There are two methods for adding games. First one is opening a executable file with JoiPlay and second is tapping '+' button on JoiPlay and entering game information. You can watch videos below to understand better.</p>
                                     <p
-                                        class="card-text" style="margin-bottom: 0px;">Using first method</p><video width="560" height="315" controls="" style="margin-bottom: 20px;width: auto;height: auto;" preload="none"><source src="assets/video/T1OPENFILE.webm" type="video/webm"></video>
-                                        <p class="card-text"
-                                            style="margin-bottom: 0px;">Using second method</p><video width="560" height="315" controls="" preload="none" style="width: auto;height: auto;margin-right: 0px;"><source src="assets/video/T1ADDBTN.webm" type="video/webm"></video></div>
+                                        class="card-text" style="margin-bottom: 0px;">Using first method</p>
+                                        <div class="embed-responsive embed-responsive-16by9"><video class="embed-responsive-item" controls="" style="margin-bottom: 20px;width: 100%;;height: auto;height: auto;" preload="metadata"><source src="assets/video/T1OPENFILE.webm" type="video/webm"></video></div>
+                                        <p
+                                            class="card-text" style="margin-bottom: 0px;margin-top: 20px;">Using second method</p>
+                                            <div class="embed-responsive embed-responsive-16by9"><video class="embed-responsive-item" controls="" preload="metadata" style="width: 100%;height: auto;margin-right: 0px;"><source src="assets/video/T1ADDBTN.webm" type="video/webm"></video></div>
+                                </div>
                             </div>
                         </div>
                         <div class="card" style="background-color: rgba(70,70,70,0.7);margin-bottom: 2px;">
@@ -124,6 +127,18 @@
                                 <div class="card-body">
                                     <p class="card-text">There are some important options in settings that might fix or cause some issues. For RPG Maker MV and HTML based games enabling Local Saves and HTTP Server options might fix some issues. For other RPG Maker games enabling
                                         Path Cache and disabling Cheats will fix some issues. Also decrypting game files can fix a lot of issues too.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card" style="background-color: rgba(70,70,70,0.7);margin-bottom: 2px;">
+                            <div class="card-header" role="tab" style="padding-top: 0px;padding-bottom: 0px;">
+                                <h6 class="mb-0" style="height: auto;"><a data-toggle="collapse" aria-expanded="false" aria-controls="accordion-1 .item-7" href="#accordion-1 .item-7"><br>WHY SOME TILES ARE RENDERED BLACK ON POKEMON ESSENTIALS?<br></a></h6>
+                            </div>
+                            <div class="collapse item-7" role="tabpanel" data-parent="#accordion-1">
+                                <div class="card-body">
+                                    <p class="card-text">RPG Maker Plugin is based on MKXP which is an open source project and it uses OpenGL ES to render graphics. OpenGL ES has a texture size limit and this limits surface width and height. MXKP uses SDL_Surface struct to
+                                        create surfaces bigger than texture size limit but these surface only allow blitting to tilemap and throw exceptions on other operations. On most Pokemon Essentials based games, height of tilesets are bigger than
+                                        texture size limit and they use a custom tilemap class to blit tiles. These two factors cause the rendering issues and unfortunately there isn't a fix at the moment.</p>
                                 </div>
                             </div>
                         </div>
