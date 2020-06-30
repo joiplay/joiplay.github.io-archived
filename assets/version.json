@@ -3,28 +3,28 @@
     "id": "com.joiplay.joiplay",
     "name": "JoiPlay",
     "dec": "This is the main app and required for all game types.",
-    "vInt": "10167",
-    "vString": "1.01.67",
-    "size": "12.20MB",
-    "url": "https://mega.nz/file/Jx4nyTAQ#fPmVtnk6BEgXiZFn1L6roMV9tpJTZtLlFGwsoMrZ64o"
+    "vInt": "10171",
+    "vString": "1.01.71-Public",
+    "size": "14.14MB",
+    "url": "https://mega.nz/file/F4BBQIyS#7yWWAkY6Pb6XauFam_Bs3NPAKJ6Z1UsczvoZcNcRda4"
   },
   "1": {
     "id": "com.joiplay.joiplay.renpy",
     "name": "JoiPlay Ren'Py Plugin",
     "dec": "This plugin is required for Ren'Py games.",
-    "vInt": "10021",
-    "vString": "1.00.21",
-    "size": "31.20MB",
-    "url": "https://mega.nz/file/80Q3HYpL#heRD1tiDeI0UMahbIDU5AMuDM0dK80Exq2Y0PUX3JfU"
+    "vInt": "10024",
+    "vString": "1.00.24",
+    "size": "30.89MB",
+    "url": "https://mega.nz/file/Z5AnSYQa#nWjtL4u-WRreB6QCQKjUfpsx9RQhnAkShgZZ929L8Jc"
   },
   "2": {
     "id": "com.joiplay.joiplay.rpgm",
     "name": "JoiPlay RPG Maker Plugin",
     "dec": "This plugin is required for RPG Maker XP, VX and VX Ace games.",
-    "vInt": "10079",
-    "vString": "1.00.79",
-    "size": "53.60MB",
-    "url": "https://mega.nz/file/N0IHVILS#1BttMAThW7A5_FiGjxnM8f3R-B1vzHsNlwDQbD9z4Vs"
+    "vInt": "10082",
+    "vString": "1.00.82",
+    "size": "54.40MB",
+    "url": "https://mega.nz/file/p1B33ABS#dezUTTn3Xo5_IClcZ_9XMf6jVq1PkYzk2inJMPF2Gsk"
   },
   "3": {
     "id": "com.joiplay.joiplay.crosswalk",
