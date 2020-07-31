@@ -3,10 +3,10 @@
     "id": "com.joiplay.joiplay",
     "name": "JoiPlay",
     "dec": "This is the main app and required for all game types.",
-    "vInt": "10173",
-    "vString": "1.01.73-Public",
-    "size": "14.14MB",
-    "url": "https://mega.nz/file/l45iRSYZ#u289ZuhayPowzhUIkzbV7cp4qF8q1O5nFf5KFZFY0gg"
+    "vInt": "10178",
+    "vString": "1.01.78-Public",
+    "size": "10.40MB",
+    "url": "https://mega.nz/file/ckZlwQxZ#yCAbpiIbEk1BYVeI8ElC2CNzMxbqRigVdfrhCtOEObY"
   },
   "1": {
     "id": "com.joiplay.joiplay.renpy",
@@ -21,10 +21,10 @@
     "id": "com.joiplay.joiplay.rpgm",
     "name": "JoiPlay RPG Maker Plugin",
     "dec": "This plugin is required for RPG Maker XP, VX and VX Ace games.",
-    "vInt": "10083",
-    "vString": "1.00.83",
-    "size": "54.40MB",
-    "url": "https://mega.nz/file/5h5WASgT#eOljXRg2DtcPqjHiWbvlUUeXeJa4pB4aUIa9uaM0NNE"
+    "vInt": "10088",
+    "vString": "1.00.88",
+    "size": "54.90MB",
+    "url": "https://mega.nz/file/kgQXDAjZ#zZLvdiWZ-NaxOSP5SRoc7D-FNkVgi2XaG15qILYF1iY"
   },
   "3": {
     "id": "com.joiplay.joiplay.crosswalk",
